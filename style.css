@@ -21,6 +21,9 @@ h2 {
   font-size: 24px;
   color: #ef5839;
 }
+img {
+  max-width: 100%;
+}
 
 a {
   color: #ef5839;
@@ -37,10 +40,35 @@ header {
   background: #2e354f;
   padding: 45px 0;
   color: #fff;
+  width: 620px;
+  margin: 0 auto;
 }
+
+section {
+  width: 620px;
+  margin: 0 auto;
+  padding: 45px 0;
+}
+
+.section-two {
+  background: #2e354f;
+  color: #fff;
+}
+
 /* 1. suru kore body theke
 2. typography
 2.5 don't repeat your self
 2.5 a anchor er color h2 er color same tar poreo a ke common style deyni, karon a te hover, focus add korbe tai
 3. layout
+3.5 play with specific number margin padding etc
+3.5 .section-one {
+  width: 620px;
+  margin: 0 auto;
+  padding: 45px 0;
+}
+
+.section-two {
+  width: 620px;
+  margin: 0 auto;
+} code gula akei tai common gula alada korbe....
  */
