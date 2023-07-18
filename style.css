@@ -5,7 +5,8 @@ body {
 }
 
 h1,
-h2 {
+h2,
+strong {
   font-weight: 900;
 }
 
