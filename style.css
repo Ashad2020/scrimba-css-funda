@@ -4,6 +4,7 @@ body {
   color: #2e354f;
 }
 
+/* Typography */
 h1,
 h2,
 strong {
@@ -22,6 +23,13 @@ h2 {
 a {
   color: #ef5839;
 }
+
+a:hover,
+a:focus {
+  color: #d4b44c;
+}
+
+/* Layout */
 
 /* 1. suru kore body theke
 2. typography
