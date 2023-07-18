@@ -34,6 +34,23 @@ a:focus {
   color: #d4b44c;
 }
 
+/* btn */
+
+.btn {
+  display: inline-block;
+  padding: 10px 25px;
+  text-decoration: none;
+}
+
+.btn-accent {
+  background: #623453;
+  color: #fff;
+}
+
+.btn-black {
+  background: #333;
+  color: #fff;
+}
 /* Layout */
 
 header {
