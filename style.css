@@ -4,6 +4,14 @@ body {
   color: #2e354f;
 }
 
+h1 {
+  font-size: 36px;
+}
+
+h2 {
+  font-size: 24px;
+  color: #ef5839;
+}
 /* 1. suru kore body theke
 2. typography
 3. layout
