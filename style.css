@@ -19,7 +19,13 @@ h2 {
   color: #ef5839;
 }
 
+a {
+  color: #ef5839;
+}
+
 /* 1. suru kore body theke
 2. typography
+2.5 don't repeat your self
+2.5 a anchor er color h2 er color same tar poreo a ke common style deyni, karon a te hover, focus add korbe tai
 3. layout
  */
